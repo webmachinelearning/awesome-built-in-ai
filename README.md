@@ -51,6 +51,7 @@
 * [Product Number OCR](https://tomayac.github.io/blogccasion-demos/built-in-ai-product-number-ocr/) - Extracts product numbers directly from photos on-device using the multimodal Prompt API. [As of: 2026.06]
 * [Read-Duck](https://github.com/jonny030/Read-Duck) - A browser extension for bilingual reading, local translation, and on-device AI summarization designed for both Google Chrome and Microsoft Edge. [As of: 2026.09]
 * [code.soubiran.dev](https://github.com/Barbapapazes/code.soubiran.dev) - A web tool for creating and sharing syntax-highlighted code images that integrates in-browser AI (`@browser-ai/core`) and an MCP server. [As of: 2026.09]
+* [Subtitle Translator](https://chromewebstore.google.com/detail/floomboamhlmkalghefpabefhciknllf) - Hover any word in video subtitles to translate it with Chrome's built-in Translator API, no server or account, and save words with their sentences for flashcards (desktop Chrome 138+). [As of: 2026.10]
 
 
 ## Developer Tools
